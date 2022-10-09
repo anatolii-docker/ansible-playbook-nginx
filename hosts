@@ -1,0 +1,4 @@
+[servers]
+ansible-vm1 ansible_host=10.166.0.5
+ansible_user=zus139a
+ansible_ssh_private_key_file=/home/zus139a/.ssh/id_rsa 
