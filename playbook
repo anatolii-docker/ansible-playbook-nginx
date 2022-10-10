@@ -4,8 +4,8 @@
   become: yes
 
   vars:
-      source_file:
-      destin_file:
+      source_file: /home/zus139a/ansible/index.html
+      destin_file: /var/www/html
 
   tasks:
   - name: Install Nginx
